@@ -17,3 +17,11 @@ Every change in every computer of the client is being notified to the server tha
 
 Not have support in conflicting changes. For example, 2 computers did a change in the same file/directory at the same time. 
 Do have support when one computer did a change, the other computer updates the changes from the server, and then does a change and updates the server.
+
+NOTICE the client and server code files need to be both in the same directory.
+
+The attached video is an example of using the system.
+
+
+https://user-images.githubusercontent.com/74676502/155500216-755d39d7-ba89-4166-bd9e-c1d3d733cb53.mov
+
